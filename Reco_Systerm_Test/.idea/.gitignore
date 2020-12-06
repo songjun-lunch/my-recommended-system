@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\机器学习与推荐系统\A01-推荐系统基础-new\课件\黑马电商资讯类推荐系统全部资料打包\2-黑马电商资讯类推荐系统-代码\Reco_Systerm_Test\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
